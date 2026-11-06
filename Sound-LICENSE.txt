@@ -17,7 +17,7 @@ Files covered:
 - App bundle Resources/cuckoo.wav: byte-identical copy of cuckoo-natural.wav.
 - cuckoo-natural-preview.mp3: compressed listening copy of that edited excerpt.
 
-Changes by the 날수있다뻐꾸기 project:
+Changes by the 날아라뻐꾸기 project:
 Extracted original seconds 1.32–2.22 (one complete two-note phrase), downmixed
 to mono, applied a light 100 Hz high-pass and 4000 Hz low-pass, added an
 18 ms fade-in and 80 ms fade-out, and normalized the peak to -9 dBFS.
@@ -31,7 +31,7 @@ to unrelated application code or assets.
 
 Suggested short credit:
 “Kuckuck” by Jugrü (Wikimedia Commons), CC BY-SA 3.0.
-Excerpt, filtering, fades and level adjustment by the 날수있다뻐꾸기 project.
+Excerpt, filtering, fades and level adjustment by the 날아라뻐꾸기 project.
 
 During repeated alarms, the project combines the phrase with this quiet source
 ambience using overlapping fades and plays one continuous audio buffer. This
