@@ -1,0 +1,38 @@
+Natural cuckoo alarm phrase
+==========================
+
+Original title: Kuckuck
+Original recording / copyright holder: Jugrü
+Original recording date stated by the source: 23 January 2013
+Source page: https://commons.wikimedia.org/wiki/File:Kuckuck.ogg
+Original file: https://upload.wikimedia.org/wikipedia/commons/3/33/Kuckuck.ogg
+License: Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+License URL: https://creativecommons.org/licenses/by-sa/3.0/
+Legal code: https://creativecommons.org/licenses/by-sa/3.0/legalcode
+
+Files covered:
+- cuckoo-ambience.wav (also bundled): quiet ambience from original seconds 2.30–2.85, mono, filtered at 100–4000 Hz, RMS normalized to -40 dBFS.
+- sources/Kuckuck.ogg: original recording, retained unchanged.
+- cuckoo-natural.wav: edited excerpt of the original recording.
+- App bundle Resources/cuckoo.wav: byte-identical copy of cuckoo-natural.wav.
+- cuckoo-natural-preview.mp3: compressed listening copy of that edited excerpt.
+
+Changes by the 날수있다뻐꾸기 project:
+Extracted original seconds 1.32–2.22 (one complete two-note phrase), downmixed
+to mono, applied a light 100 Hz high-pass and 4000 Hz low-pass, added an
+18 ms fade-in and 80 ms fade-out, and normalized the peak to -9 dBFS.
+Playback speed and pitch have not been changed. No synthetic notes added.
+The MP3 preview additionally uses lossy MP3 encoding.
+
+The modified audio is distributed under the same CC BY-SA 3.0 license.
+Keep attribution, the source/license links, and the modification notice when
+redistributing it. This notice applies to these audio files, not automatically
+to unrelated application code or assets.
+
+Suggested short credit:
+“Kuckuck” by Jugrü (Wikimedia Commons), CC BY-SA 3.0.
+Excerpt, filtering, fades and level adjustment by the 날수있다뻐꾸기 project.
+
+During repeated alarms, the project combines the phrase with this quiet source
+ambience using overlapping fades and plays one continuous audio buffer. This
+additional audio adaptation is also provided under CC BY-SA 3.0.
